@@ -6,7 +6,7 @@ The Royal  Bank of Flatiron is a React application that displays a list of your 
 
 ## Authors
 
-- [@githinjisamson1](https://www.github.com/octokatherine)
+- [@2020brian(https://github.com/2020brian/phase2flatiron/edit/main/README.md)
 
 
 ## Contributing
@@ -33,27 +33,7 @@ Contributions are always welcome!
   open using an editor e.g., vs code: npm start
   open the application using your favorite browser
 ```
-    
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at githinjisamson148@gmail.com
-
-
-## Lessons Learned
-
-- Maintaining state at top level component
-- useState hook usage
-- useEffect hook usage
-- passing props
-- conditional rendering
-- modular css
-
-
+  
 ## Tech Stack
 
 **Client:** ```HTML | CSS | JS | REACT```
@@ -63,7 +43,4 @@ If you have any feedback, please reach out to me at githinjisamson148@gmail.com
 **Server:** ```json-server```
 
 
-## Used By
-
-For learning purposes :)
 
